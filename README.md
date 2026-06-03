@@ -378,8 +378,6 @@
 </head>
 <body>
 
-<div class="floating-hearts" id="floatingHearts"></div>
-
 <div class="container">
     <!-- Hero Section -->
     <div class="glass-card hero">
