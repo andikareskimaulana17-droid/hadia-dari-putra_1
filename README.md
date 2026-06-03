@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -377,8 +377,6 @@
     </style>
 </head>
 <body>
-
-<div class="container">
     <!-- Hero Section -->
     <div class="glass-card hero">
         <h1>✨ happy birday <span class="heart-icon">❤️</span> <br> NURUL</h1>
