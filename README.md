@@ -353,7 +353,7 @@
     <div class="music-player">
         <i class="fas fa-headphones-alt" style="color: #ffb2cf;"></i>
         <audio id="birthdayAudio" controls preload="auto">
-            <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" type="audio/mpeg">
+            <source src="Daniel Caesar - Superpowers (Official Audio).mp3" type="audio/mpeg">
         </audio>
         <div class="music-note"><i class="fas fa-music"></i> Lagu cinta</div>
     </div>
